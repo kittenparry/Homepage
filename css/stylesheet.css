@@ -68,6 +68,14 @@ body a:hover {
   color: #96B5B4;
 }
 
+h3 a, h3 a:visited {
+  color: #EFF1F5;
+}
+
+h3 a:hover {
+  color: #96B5B4;
+}
+
 .main ul {
   background-color: #EFF1F5;
 }
@@ -76,7 +84,7 @@ body a:hover {
   background-color: #8FA1B3;
 }
 
-.school h3 {
+.general h3 {
   background-color: #96B5B4;
 }
 
@@ -84,6 +92,6 @@ body a:hover {
   background-color: #A3BE8C;
 }
 
-.general h3 {
+.nsfw h3 {
   background-color: #AB7967;
 }
